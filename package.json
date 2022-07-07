@@ -36,7 +36,7 @@
         "classnames": "2.2.5",
         "dot-prop-immutable": "1.4.0",
         "lodash": "4.17.10",
-        "moment": "2.22.1",
+        "moment": "2.29.4",
         "object-assign": "4.1.0",
         "react": "16.2.0",
         "react-d3-tree": "1.10.6",
